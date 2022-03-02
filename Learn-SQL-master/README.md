@@ -1,3 +1,7 @@
+
+# Description
+I went ahead and followed along the video to go over concepts that i went over months ago to better understand sql and to solve problems. Below i copied over the database provided and solved the exercises provided
+
 # Learn SQL
 If you haven't already make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
 
